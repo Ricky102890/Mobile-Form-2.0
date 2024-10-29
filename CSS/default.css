@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+@font-face {
+    font-family: '';
+    src: url();
+}
+@font-face {
+    font-family: '';
+    src: url();
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+}
